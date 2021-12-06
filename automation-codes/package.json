@@ -1,5 +1,9 @@
 {
   "devDependencies": {
-    "cypress": "^9.1.0"
+    "cypress": "^9.1.0",
+    "cypress-cucumber-preprocessor": "^4.3.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/integration/**/"
   }
 }

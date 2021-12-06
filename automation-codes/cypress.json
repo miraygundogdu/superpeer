@@ -1,1 +1,9 @@
-{}
+{
+        "defaultCommandTimeout": 10000,
+        "env": {
+            "url": "http://www.youtube.com/"
+        }
+}
+        
+    
+  
